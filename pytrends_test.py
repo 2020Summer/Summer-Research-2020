@@ -6,6 +6,7 @@ Created on Thu Jun 25 12:00:38 2020
 
 This is from the following website:
     https://pypi.org/project/pytrends/
+    https://towardsdatascience.com/google-trends-api-for-python-a84bc25db88f
 """
 
 #========================Initialization============================
